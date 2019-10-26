@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chen Fengling"
-  avatar           : "https://github.com/ChenFengling/ChenFengling.github.io/blob/master/images/cfl.jpg"
+  avatar           : "cfl.jpg"
   bio              : "Machine learning, Bioinformatics"
   email            : "cfl15@mails.tsinghua.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Fengling_Chen2"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ChenFengling"
+  github           : "ChenFengling"
   google_plus      :
   keybase          :
   instagram        :
