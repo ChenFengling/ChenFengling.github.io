@@ -25,16 +25,24 @@ Academic Interests
 
 Education
 ======
-2011.09~2015.07    B.S.  
+**2011.09~2015.07    B.S. **  
+
 Department of Electronic and Information Engineering  
 Beihang University, Beijing.  
 
-2015.09~Current    Ph.D. Student  
+**2015.09~Current    Ph.D. Student **
+
 Department of Automation, Tsinghua University.  
 Bioinformatics Division & Center for System and Synthetic Biology, Tsinghua National Laboratory for Information Science & Technology, Beijing  
 Supervisor: Prof. Michael Zhang & Dr. Yang Chen  
 
 Experience
 ------
-2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.  
-2017.09: top 10 winner out of 368 teams in Mobike Big Data Challenge 2017. View our solution at github.  
+* 2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.  
+* 2017.09: top 10 winner out of 368 teams in Mobike Big Data Challenge 2017. View our solution at github.  
+
+Publications
+------
+* Wang J, Chen F, Liu L, et al.(2016) Engineering EMT using 3D micro-scaffold to promote hepatic functions for drug hepatotoxicity evaluation[J]. Biomaterials, 91: 11-22.
+* Li, Y., He, Y., Liang, Z., Wang, Y., Chen, F., Djekidel, M.N., Li, G., Zhang, X., Xiang, S. and Wang, Z. et al.. (2018) Alterations of specific chromatin conformation affect ATRA-induced leukemia cell differentiation. CELL DEATH DIS, 9.
+* Chen, F., Li, G., Zhang, M.Q. and Chen, Y. (2018) HiCDB: a sensitive and robust method for detecting contact domain boundaries. NUCLEIC ACIDS RES.
