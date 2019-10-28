@@ -27,12 +27,12 @@ Department of Electronic and Information Engineering
 Beihang University, Beijing.  
 
 **2015.09~Current    Ph.D. Student**  
-Tsinghua University, Department of Automation 
-Bioinformatics Division, Tsinghua National Laboratory for Information Science & Technology
+Tsinghua University, Department of Automation  
+Bioinformatics Division, Tsinghua National Laboratory for Information Science & Technology  
 Supervisor: Prof. Michael Zhang & Dr. Yang Chen  
 
 **2019.07~2020.01    Research Scholar**  
-Stanford University, Department of Statistics
+Stanford University, Department of Statistics  
 Supervisor: Prof. Wing Hung Wong
 
 Experience
