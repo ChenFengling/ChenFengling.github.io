@@ -16,12 +16,12 @@ FIT 1-108, Tsinghua University, Beijing 100084, China
 
 Academic Interests
 ======
-*I have broad interests in applying statistical or machine leaning methods in genomic study. Currently, I mainly focus on 1) developing novel statistical methods to analyze and explore the Hi-C data, as well as 2) NGS data integration analysis centered on Hi-C data to give biological insights in development and disease.
+* I have broad interests in applying statistical or machine leaning methods in genomic study. Currently, I mainly focus on 1) developing novel statistical methods to analyze and explore the Hi-C data, as well as 2) NGS data integration analysis centered on Hi-C data to give biological insights in development and disease.
 
-*other concerns:
- *molecular mechanism of human recombination events
- *regulation in 3D micro-scaffold cultured cells
- *gene regulation network
+* other concerns:
+ * molecular mechanism of human recombination events
+ * regulation in 3D micro-scaffold cultured cells
+ * gene regulation network
 
 Education
 ======
