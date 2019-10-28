@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-PhD. student
-MOE Key Laboratory of Bioinformatics
-Bioinformatics Division, TNLIST & Department of Automation
-FIT 1-108, Tsinghua University, Beijing 100084, China
+PhD. student  
+MOE Key Laboratory of Bioinformatics  
+Bioinformatics Division, TNLIST & Department of Automation  
+FIT 1-108, Tsinghua University, Beijing 100084, China  
 
 
 Academic Interests
@@ -25,15 +25,16 @@ gene regulation network
 
 Education
 ======
- 2011.09~2015.07    B.S.
-Department of Electronic and Information Engineering
-Beihang University, Beijing.
- 2015.09~Current    Ph.D. Student
-Department of Automation, Tsinghua University.
-Bioinformatics Division & Center for System and Synthetic Biology, Tsinghua National Laboratory for Information Science & Technology, Beijing
-Supervisor: Prof. Michael Zhang & Dr. Yang Chen
+2011.09~2015.07    B.S.  
+Department of Electronic and Information Engineering  
+Beihang University, Beijing.  
+
+2015.09~Current    Ph.D. Student  
+Department of Automation, Tsinghua University.  
+Bioinformatics Division & Center for System and Synthetic Biology, Tsinghua National Laboratory for Information Science & Technology, Beijing  
+Supervisor: Prof. Michael Zhang & Dr. Yang Chen  
 
 Experience
 ------
-2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.
-2017.09: top 10 winner out of 368 teams in Mobike Big Data Challenge 2017. View our solution at github.
+2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.  
+2017.09: top 10 winner out of 368 teams in Mobike Big Data Challenge 2017. View our solution at github.  
