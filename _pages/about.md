@@ -38,7 +38,7 @@ Supervisor: Prof. Wing Hung Wong
 Experience
 ------
 * 2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.  
-* 2017.09: top 10 winner out of 368 teams in Mobike Big Data Challenge 2017. View our solution at github.  
+* 2017.09: top 10 winner out of 368 teams in [Mobike Big Data Challenge 2017](https://biendata.com/competition/mobike/). View our [solution](https://github.com/ChenFengling/mobike-cup) at github.  
 
 Publications
 ------
