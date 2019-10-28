@@ -29,7 +29,7 @@ Education
 Department of Electronic and Information Engineering  
 Beihang University, Beijing.  
 
-**2015.09~Current    Ph.D. Student**
+**2015.09~Current    Ph.D. Student**  
 Department of Automation, Tsinghua University.  
 Bioinformatics Division & Center for System and Synthetic Biology, Tsinghua National Laboratory for Information Science & Technology, Beijing  
 Supervisor: Prof. Michael Zhang & Dr. Yang Chen  
