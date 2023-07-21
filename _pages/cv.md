@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Click [Here](https://github.com/ChenFengling/ChenFengling.github.io/blob/master/files/个人简历-陈凤玲.pdf)  to Download My Up-to-date Curriculum Vitae.
+Click [Here](https://ChenFengling.github.io/files/个人简历-陈凤玲.pdf)  to Download My Up-to-date Curriculum Vitae.
 
 
