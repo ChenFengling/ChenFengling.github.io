@@ -22,18 +22,22 @@ I have broad interests in applying statistical or machine leaning methods in gen
 
 Education
 ======
-**2011.09~2015.07    B.S.**  
-Department of Electronic and Information Engineering  
-Beihang University, Beijing.  
+**2020.09~Now    Postdoc**  
+Tsinghua University, Department of Life Sciences  
+Supervisor: Prof. Wei Xie
+
+**2019.07~2020.01    Research Scholar**  
+Stanford University, Department of Statistics  
+Supervisor: Prof. Wing Hung Wong
 
 **2015.09~Current    Ph.D. Student**  
 Tsinghua University, Department of Automation  
 Bioinformatics Division, Tsinghua National Laboratory for Information Science & Technology  
 Supervisor: Prof. Michael Zhang & Dr. Yang Chen  
 
-**2019.07~2020.01    Research Scholar**  
-Stanford University, Department of Statistics  
-Supervisor: Prof. Wing Hung Wong
+**2011.09~2015.07    B.S.**  
+Department of Electronic and Information Engineering  
+Beihang University, Beijing.  
 
 Experience
 ------
