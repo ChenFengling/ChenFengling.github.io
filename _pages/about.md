@@ -76,6 +76,78 @@ Experience
 Publications
 ------
 **Peer-reviewed papers (as lead author)**
+<style>
+.pub_title{font-size:16px;}
+.pub_author{font-size:16px;}
+.pub_journal{font-size:16px;}
+.subtitle{ 
+    font-size:16px;           
+    width: 800px;  
+    height: 40px; 
+    text-align:center     
+} 
+</style>
+
+<div class="subtitle"> <i><b>- ZGA regulators -</b></i></div>
+
+
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> OBOX regulates murine zygotic genome activation and early development </div>
+<div class="pub_author"> Ji, S.*,<b> Chen, F.*</b>, Stein, P.*, Wang, J.*, Zhou, Z.*, Wang, L.*, … & Xie, W.#</div>
+<div class="pub_journal"><b>Nature</b>, 2023 [<a href="https://www.nature.com/articles/s41586-023-06428-3">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+</td>
+</tr>
+</table>
+
+<div class="subtitle"> <i><b>- 3D genome methods -</b></i></div>
+
+
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong</div>
+<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>]</div>
+</td>
+</tr>
+</table>
+
+
+
+<div class="subtitle"> <i><b>- 3D genome in differention and disease -</b></i></div>
+
+
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong</div>
+<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
+<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
+<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+</td>
+</tr>
+</table>
+
 1. Ji, S.\*, **Chen, F.\***, Stein, P.\*, Wang, J.\*, Zhou, Z.\*, Wang, L.\*, ... & Xie, W. (2023). OBOX regulates murine zygotic genome activation and early development. Nature. (IF: 69.504)
 2. **Chen, F.\***, Li, G.\*, Zhang, M. Q., & Chen, Y. (2018). HiCDB: a sensitive and robust method for detecting contact domain boundaries. Nucleic acids research, 46(21), 11239-11250. (IF: 19.16)
 3. Wang, R.\*, **Chen, F.\***, Chen, Q.\*, Wan, X.\*, Shi, M., Chen, A. K., ... & Zhu, D. (2022). MyoD is a 3D genome structure organizer for muscle cell identity. Nature communications, 13(1), 1-17. (IF: 17.694)
