@@ -129,17 +129,17 @@ Publications
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/MyoD.png" width="400px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/MyoD.png" width="500px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> MyoD is a 3D genome structure organizer for muscle cell identity </div>
-<div class="pub_author"> Wang, R.*, <b>Chen, F.*</b>, Chen, Q.*, Wan, X.*, Shi, M., Chen, A. K., … & Zhu, D. </div>
+<div class="pub_author"> Wang, R.*, <b>Chen, F.*</b>, Chen, Q.*, Wan, X.*, … & Zhu, D. </div>
 <div class="pub_journal"><b>Nature communications</b>, 2022 [<a href="https://www.nature.com/articles/s41467-021-27865-6">Paper</a>]</div>
 </td>
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/TALL.png" width="400px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/TALL.png" width="500px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> 3D genome alterations associated with dysregulated HOXA13 expression in high-risk T-lineage acute lymphoblastic leukemia. </div>
-<div class="pub_author"> Yang, L.*, <b>Chen, F.*</b>, Zhu, H.*, Chen, Y., Dong, B., Shi, M., … & Wu, H. </div>
+<div class="pub_author"> Yang, L.*, <b>Chen, F.*</b>, Zhu, H.*, Chen, Y., … & Wu, H. </div>
 <div class="pub_journal"><b>Nature communications</b>, 2021 [<a href="https://www.nature.com/articles/s41467-021-24044-5">Paper</a>]</div>
 </td>
 </tr>
