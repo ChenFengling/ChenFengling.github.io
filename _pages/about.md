@@ -104,8 +104,21 @@ Publications
 <tr>
 <td><img class="proj_thumb" src="images/TDP43.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Maternal TDP-43 interacts with RNA Pol II and regulates zygotic genome activation </div>
-<div class="pub_author"> Nie, X.*, Xu, Q.*, Xu, C.*, <b>Chen, F.*</b>, Wang, Q., Qin, D., … & Li, L.# </div>
+<div class="pub_author"> Nie, X.*, Xu, Q.*, Xu, C.*, <b>Chen, F.*</b>, Wang, Q., Qin, D., … & Li, L. </div>
 <div class="pub_journal"><b>Nature communications</b>, 2023 [<a href="https://www.nature.com/articles/s41467-023-39924-1">Paper</a>]</div>
+</td>
+</tr>
+</table>
+
+<div class="subtitle"> <i><b>- 3D genome methods -</b></i></div>
+
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/HiCDB.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> HiCDB: a sensitive and robust method for detecting contact domain boundaries </div>
+<div class="pub_author"> <b>Chen, F.*</b>, Li, G.*, Zhang, M. Q., & Chen, Y. </div>
+<div class="pub_journal"><b>Nucleic acids research</b>, 2018 [<a href="https://academic.oup.com/nar/article/46/21/11239/5090284">Paper</a>][<a href="https://github.com/ChenFengling/RHiCDB">RCode</a>][<a href="https://github.com/ChenFengling/HiCDB">MatlabCode</a>]</div>
 </td>
 </tr>
 </table>
@@ -118,7 +131,7 @@ Publications
 <tr>
 <td><img class="proj_thumb" src="images/MyoD.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> MyoD is a 3D genome structure organizer for muscle cell identity </div>
-<div class="pub_author"> Wang, R.*, <b>Chen, F.*</b>, Chen, Q.*, Wan, X.*, Shi, M., Chen, A. K., … & Zhu, D.#</div>
+<div class="pub_author"> Wang, R.*, <b>Chen, F.*</b>, Chen, Q.*, Wan, X.*, Shi, M., Chen, A. K., … & Zhu, D. </div>
 <div class="pub_journal"><b>Nature communications</b>, 2022 [<a href="https://www.nature.com/articles/s41467-021-27865-6">Paper</a>]</div>
 </td>
 </tr>
@@ -132,18 +145,6 @@ Publications
 </tr>
 </table>
 
-<div class="subtitle"> <i><b>- 3D genome methods -</b></i></div>
-
-<table class="imgtable">
-
-<tr>
-<td><img class="proj_thumb" src="images/HiCDB.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> HiCDB: a sensitive and robust method for detecting contact domain boundaries </div>
-<div class="pub_author"> <b>Chen, F.*</b>, Li, G.*, Zhang, M. Q., & Chen, Y.#</div>
-<div class="pub_journal"><b>Nucleic acids research</b>, 2018 [<a href="https://academic.oup.com/nar/article/46/21/11239/5090284">Paper</a>][<a href="https://github.com/ChenFengling/RHiCDB">RCode</a>][<a href="https://github.com/ChenFengling/HiCDB">MatlabCode</a>]</div>
-</td>
-</tr>
-</table>
 
 
 
