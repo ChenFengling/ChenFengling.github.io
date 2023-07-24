@@ -110,22 +110,6 @@ Publications
 </tr>
 </table>
 
-<div class="subtitle"> <i><b>- 3D genome methods -</b></i></div>
-
-
-<table class="imgtable">
-
-<tr>
-<td><img class="proj_thumb" src="images/HiCDB.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> HiCDB: a sensitive and robust method for detecting contact domain boundaries </div>
-<div class="pub_author"> <b>Chen, F.*</b>, Li, G.*, Zhang, M. Q., & Chen, Y.#</div>
-<div class="pub_journal"><b>Nucleic acids research</b>, 2018 [<a href="https://academic.oup.com/nar/article/46/21/11239/5090284">Paper</a>][<a href="https://github.com/ChenFengling/RHiCDB">RCode</a>][<a href="https://github.com/ChenFengling/HiCDB">MatlabCode</a>]</div>
-</td>
-</tr>
-</table>
-
-
-
 <div class="subtitle"> <i><b>- 3D genome in differention and disease -</b></i></div>
 
 
@@ -147,3 +131,20 @@ Publications
 </td>
 </tr>
 </table>
+
+<div class="subtitle"> <i><b>- 3D genome methods -</b></i></div>
+
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="images/HiCDB.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> HiCDB: a sensitive and robust method for detecting contact domain boundaries </div>
+<div class="pub_author"> <b>Chen, F.*</b>, Li, G.*, Zhang, M. Q., & Chen, Y.#</div>
+<div class="pub_journal"><b>Nucleic acids research</b>, 2018 [<a href="https://academic.oup.com/nar/article/46/21/11239/5090284">Paper</a>][<a href="https://github.com/ChenFengling/RHiCDB">RCode</a>][<a href="https://github.com/ChenFengling/HiCDB">MatlabCode</a>]</div>
+</td>
+</tr>
+</table>
+
+
+
+
