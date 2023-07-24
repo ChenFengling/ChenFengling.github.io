@@ -56,26 +56,6 @@ Education
     </div>
 </div>
 
-<!--
-<h2>Internships</h2>
-<style>
-.media2{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
-.media2:after{clear:both;display:block;width:0;height:0;content:""}
-.pull-left2{height:60px;float:left;border:0 solid #ccc}
-.pull-left2 img{height:60px;}
-.media-body2{float:left;width:450px;margin-left:10px;font-size:16px;}
-</style>
-<div class="media2">
-    <span class="pull-left2"><img src="images/SenseTime.jpg" height="75px"/></span>
-    <div class="media-body2">
-        <div><span style="font-weight: bold">Jul. 2019 - Sep. 2019</span></div>
-        <div> AI+Healthcare, <b>SenseTime Inc</b></div>
-        <div><b>Research Intern</b></div>
-    </div>
-</div>
--->
-
-
 Experience
 ------
 * 2020.12: invited talks at the 7th International Symposium on 3D Genomics, Beijing
