@@ -94,7 +94,7 @@ Publications
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/OBOX.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> OBOX regulates murine zygotic genome activation and early development </div>
 <div class="pub_author"> Ji, S.*,<b> Chen, F.*</b>, Stein, P.*, Wang, J.*, Zhou, Z.*, Wang, L.*, … & Xie, W.#</div>
 <div class="pub_journal"><b>Nature</b>, 2023 [<a href="https://www.nature.com/articles/s41586-023-06428-3">Paper</a>]</div>
@@ -102,10 +102,10 @@ Publications
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+<td><img class="proj_thumb" src="images/TDP43.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Maternal TDP-43 interacts with RNA Pol II and regulates zygotic genome activation </div>
+<div class="pub_author"> Nie, X.*, Xu, Q.*, Xu, C.*, <b>Chen, F.*</b>, Wang, Q., Qin, D., … & Li, L.# </div>
+<div class="pub_journal"><b>Nature communications</b>, 2023 [<a href="https://www.nature.com/articles/s41467-023-39924-1">Paper</a>]</div>
 </td>
 </tr>
 </table>
@@ -116,10 +116,10 @@ Publications
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong</div>
-<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>]</div>
+<td><img class="proj_thumb" src="images/HiCDB.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> HiCDB: a sensitive and robust method for detecting contact domain boundaries </div>
+<div class="pub_author"> <b>Chen, F.*</b>, Li, G.*, Zhang, M. Q., & Chen, Y.#</div>
+<div class="pub_journal"><b>Nucleic acids research</b>, 2018 [<a href="https://academic.oup.com/nar/article/46/21/11239/5090284">Paper</a>][<a href="https://github.com/ChenFengling/RHiCDB">RCode</a>][<a href="https://github.com/ChenFengling/HiCDB">MatlabCode</a>]</div>
 </td>
 </tr>
 </table>
@@ -132,24 +132,18 @@ Publications
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="images/CausalEGM.png" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> CausalEGM: a general causal inference framework by encoding generative modeling </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Zhongren Chen, Wing Hung Wong</div>
-<div class="pub_journal"><b>arXiv</b>, 2022 [<a href="https://arxiv.org/abs/2212.05925">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>]</div>
+<td><img class="proj_thumb" src="images/MyoD.png" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> MyoD is a 3D genome structure organizer for muscle cell identity </div>
+<div class="pub_author"> Wang, R.*, <b>Chen, F.*</b>, Chen, Q.*, Wan, X.*, Shi, M., Chen, A. K., … & Zhu, D.#</div>
+<div class="pub_journal"><b>Nature communications</b>, 2022 [<a href="https://www.nature.com/articles/s41467-021-27865-6">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>]</div>
 </td>
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/Roundtrip.jpg" width="320px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Desity Estimation with Deep Generative Neural Networks </div>
-<div class="pub_author"> <b>Qiao Liu</b>, Jiaze Xu, Rui Jiang, Wing Hung Wong </div>
-<div class="pub_journal"><b>PNAS</b>, 2021 [<a href="https://www.pnas.org/doi/10.1073/pnas.2101344118">Paper</a>][<a href="https://github.com/kimmo1019/Roundtrip">Code</a>]</div>
+<td><img class="proj_thumb" src="images/TALL.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> 3D genome alterations associated with dysregulated HOXA13 expression in high-risk T-lineage acute lymphoblastic leukemia. </div>
+<div class="pub_author"> Yang, L.*, <b>Chen, F.*</b>, Zhu, H.*, Chen, Y., Dong, B., Shi, M., … & Wu, H. </div>
+<div class="pub_journal"><b>Nature communications</b>, 2021 [<a href="https://www.nature.com/articles/s41467-021-24044-5">Paper</a>]</div>
 </td>
 </tr>
 </table>
-
-1. Ji, S.\*, **Chen, F.\***, Stein, P.\*, Wang, J.\*, Zhou, Z.\*, Wang, L.\*, ... & Xie, W. (2023). OBOX regulates murine zygotic genome activation and early development. Nature. (IF: 69.504)
-2. **Chen, F.\***, Li, G.\*, Zhang, M. Q., & Chen, Y. (2018). HiCDB: a sensitive and robust method for detecting contact domain boundaries. Nucleic acids research, 46(21), 11239-11250. (IF: 19.16)
-3. Wang, R.\*, **Chen, F.\***, Chen, Q.\*, Wan, X.\*, Shi, M., Chen, A. K., ... & Zhu, D. (2022). MyoD is a 3D genome structure organizer for muscle cell identity. Nature communications, 13(1), 1-17. (IF: 17.694)
-4. Yang, L.\*, **Chen, F.\***, Zhu, H.\*, Chen, Y., Dong, B., Shi, M., ... & Wu, H. (2021). 3D genome alterations associated with dysregulated HOXA13 expression in high-risk T-lineage acute lymphoblastic leukemia. Nature communications, 12(1), 3708. (IF: 17.694)
-5. Nie, X.\*, Xu, Q.\*, Xu, C.\*, **Chen, F.\***, Wang, Q., Qin, D., … & Li, L. (2023). Maternal TDP-43 interacts with RNA Pol II and regulates zygotic genome activation. Nature communications, 14(1), 4275. (IF: 17.694)
