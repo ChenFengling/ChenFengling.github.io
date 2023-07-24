@@ -135,7 +135,7 @@ Publications
 <td><img class="proj_thumb" src="images/MyoD.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> MyoD is a 3D genome structure organizer for muscle cell identity </div>
 <div class="pub_author"> Wang, R.*, <b>Chen, F.*</b>, Chen, Q.*, Wan, X.*, Shi, M., Chen, A. K., … & Zhu, D.#</div>
-<div class="pub_journal"><b>Nature communications</b>, 2022 [<a href="https://www.nature.com/articles/s41467-021-27865-6">Paper</a>][<a href="https://github.com/SUwonglab/CausalEGM">Code</a>]</div>
+<div class="pub_journal"><b>Nature communications</b>, 2022 [<a href="https://www.nature.com/articles/s41467-021-27865-6">Paper</a>]</div>
 </td>
 </tr>
 
