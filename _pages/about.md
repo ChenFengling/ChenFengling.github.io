@@ -102,7 +102,7 @@ Publications
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/TDP43.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/TDP43.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Maternal TDP-43 interacts with RNA Pol II and regulates zygotic genome activation </div>
 <div class="pub_author"> Nie, X.*, Xu, Q.*, Xu, C.*, <b>Chen, F.*</b>, Wang, Q., Qin, D., … & Li, L.# </div>
 <div class="pub_journal"><b>Nature communications</b>, 2023 [<a href="https://www.nature.com/articles/s41467-023-39924-1">Paper</a>]</div>
@@ -140,7 +140,7 @@ Publications
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/TALL.jpg" width="320px" alt=""/>&nbsp;</td>
+<td><img class="proj_thumb" src="images/TALL.png" width="320px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> 3D genome alterations associated with dysregulated HOXA13 expression in high-risk T-lineage acute lymphoblastic leukemia. </div>
 <div class="pub_author"> Yang, L.*, <b>Chen, F.*</b>, Zhu, H.*, Chen, Y., Dong, B., Shi, M., … & Wu, H. </div>
 <div class="pub_journal"><b>Nature communications</b>, 2021 [<a href="https://www.nature.com/articles/s41467-021-24044-5">Paper</a>]</div>
