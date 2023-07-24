@@ -13,7 +13,7 @@ MOE Key Laboratory of Bioinformatics, School of Life Sciences,
 Tsinghua-Peking Center for Life Sciences, Tsinghua University, Beijing, China
 
 Academic Interests
-======
+------
 I have broad interests in applying statistical or machine learning methods in genetic and epigenetic studies. Currently, I mainly focus on    
 1) developing novel statistical methods to analyze and explore the epigenetic data, as well as   
 2) experimental design and integration analysis to explore key regulators in early embryo development.
@@ -29,7 +29,7 @@ I have broad interests in applying statistical or machine learning methods in ge
 </style>
 
 Education
-======
+------
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
