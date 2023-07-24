@@ -18,6 +18,16 @@ I have broad interests in applying statistical or machine learning methods in ge
 1) developing novel statistical methods to analyze and explore the epigenetic data, as well as   
 2) experimental design and integration analysis to explore key regulators in early embryo development.
 
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css">
+*{padding:0;margin:0;}
+.media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
+.media:after{clear:both;display:block;width:0;height:0;content:""}
+.pull-left{height:75px;float:left;border:0 solid #ccc}
+.pull-left img{height:75px;}
+.media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
+</style>
+
 Education
 ======
 <div class="media">
