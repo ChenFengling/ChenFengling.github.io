@@ -69,7 +69,7 @@ Education
 Experience
 ------
 * 2020.12: [invited talks](https://ChenFengling.github.io/files/fengling_20201206_3D%20Genome.pdf) at the 7th International Symposium on 3D Genomics, Beijing
-* 2018.10: [invited talks](files/wuhan1014_fchen.pdf) at the 5th International Symposium on 3D Genomics, Wuhan, Hubei
+* 2018.10: [invited talks](https://ChenFengling.github.io/files/wuhan1014_fchen.pdf) at the 5th International Symposium on 3D Genomics, Wuhan, Hubei
 * 2017.09: top 10 winner out of 368 teams in [Mobike Big Data Challenge 2017](https://biendata.com/competition/mobike/). View our [solution](https://github.com/ChenFengling/mobike-cup) at github.  
 * 2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.  
 
