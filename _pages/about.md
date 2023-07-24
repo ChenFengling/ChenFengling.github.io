@@ -20,22 +20,41 @@ I have broad interests in applying statistical or machine learning methods in ge
 
 Education
 ======
-**2020.09~Now     Postdoctoral scholar**  
-Tsinghua University, Department of Life Sciences  
-Supervisor: Prof. Wei Xie
+<div class="media">
+    <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">2020.09~Now     Postdoctoral scholar</span></div>
+        <div>Department of Life Sciences, Tsinghua University, China</div>
+        <div>Supervisor: Prof. Wei Xie</div>
+    </div>
+</div>
 
-**2019.07~2020.01    Research Scholar**  
-Stanford University, Department of Statistics  
-Supervisor: Prof. Wing Hung Wong
+<div class="media">
+    <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">2019.07~2020.01    Research Scholar</span></div>
+        <div>Department of Statistics, Stanford University, USA</div> 
+        <div>Supervisor: Prof. Wing Hung Wong</div>
+    </div>
+</div>
 
-**2015.09~Current    Ph.D. Student**  
-Tsinghua University, Department of Automation  
-Bioinformatics Division, Tsinghua National Laboratory for Information Science & Technology  
-Supervisor: Prof. Michael Zhang & Dr. Yang Chen  
+<div class="media">
+    <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">2015.09~2020.08    Ph.D. Student</span></div>
+        <div>Department of Automation, Tsinghua University</div>
+        <div>Supervisor: Prof. Michael Zhang & Dr. Yang Chen  </div>
+    </div>
+</div>
 
-**2011.09~2015.07    B.S.**  
-Department of Electronic and Information Engineering  
-Beihang University, Beijing.  
+<div class="media">
+    <span class="pull-left"><img src="images/Buaa_logo.jpg" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">2011.09~2015.07    B.S.</span></div>
+        <div>Department of Electronic and Information Engineering</div> 
+        <div>Beihang University, Beijing.</div>
+    </div>
+</div>
 
 Experience
 ------
