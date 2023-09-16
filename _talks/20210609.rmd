@@ -1,0 +1,12 @@
+---
+title: "Basic Machine learning Methods (1) Dimension reduction
+"
+collection: Workshop
+type: "Talk"
+permalink: /talks/20210609.rmd
+venue: "Tsinghua University"
+date: 2021-06-09
+location: "Beijing, CN"
+---
+In this workshop, I talked about the principles and applications of dimension reduction methods including PCA, tsne, Umap.   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvtPXZHNoCc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
