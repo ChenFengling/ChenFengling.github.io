@@ -2,7 +2,7 @@
 title: "Basic Machine learning Methods (1) Dimension reduction
 "
 collection: Workshop
-type: "Talk"
+type: "Workshop"
 permalink: /talks/20210609.rmd
 venue: "Tsinghua University"
 date: 2021-06-09
