@@ -10,4 +10,4 @@ location: "Beijing, CN"
 ---
 In this workshop, I talked about the principles and applications of dimension reduction methods including PCA, tsne, Umap.  
 [See the slides here](https://ChenFengling.github.io/files/workshop_basic_statistical_learning_cfl.pdf)
-<iframe src="//player.bilibili.com/player.html?aid=318432946&bvid=BV1DP41187GN&cid=1265710881&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=318432946&bvid=BV1DP41187GN&cid=1265710881&p=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
