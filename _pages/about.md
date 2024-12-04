@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fengling Chen   陈凤玲"
+title: "Chen's Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral scholar  
-MOE Key Laboratory of Bioinformatics, School of Life Sciences,  
-Tsinghua-Peking Center for Life Sciences, Tsinghua University, Beijing, China
+Welcome to Chen's Lab at China Agricultural University.
 
-Academic Interests
-------
-I have broad interests in applying statistical or machine learning methods in genetic and epigenetic studies. Currently, I mainly focus on    
-1) developing novel statistical methods to analyze and explore the epigenetic data, as well as   
-2) experimental design and integration analysis to explore key regulators in early embryo development.
+We are interested in applying statistical or machine-learning methods in genetic and epigenetic studies. Currently, We mainly focus on    
+1) developing novel statistical methods to analyze and explore multi-omic data including single-cell omics data, as well as   
+2) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks in early embryo development.
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">
