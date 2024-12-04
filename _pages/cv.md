@@ -24,7 +24,7 @@ China Agricultural University
 Education
 ------
 <div class="media">
-    <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="https://ChenFengling.github.io/images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">2020.09~2024.09     Postdoctoral scholar</span></div>
         <div>Department of Life Sciences, Tsinghua University, China</div>
@@ -33,7 +33,7 @@ Education
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="https://ChenFengling.github.io/images/stanford_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">2019.07~2020.01    Research Scholar</span></div>
         <div>Department of Statistics, Stanford University, USA</div> 
@@ -42,7 +42,7 @@ Education
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="https://ChenFengling.github.io/images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">2015.09~2020.08    Ph.D. Student</span></div>
         <div>Department of Automation, Tsinghua University</div>
@@ -51,7 +51,7 @@ Education
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/Buaa_logo.jpg" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="https://ChenFengling.github.io/images/Buaa_logo.jpg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">2011.09~2015.07    B.S.</span></div>
         <div>Department of Electronic and Information Engineering</div> 
