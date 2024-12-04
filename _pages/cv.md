@@ -1,17 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Fengling Chen, Ph.D"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
-
-## Fengling Chen, Ph.D   
 Principal Investigator    
 College of Biological Sciences   
 China Agricultural University   
+
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">
@@ -72,7 +70,7 @@ Select publications
 ------
 1. Ji, S.#, **Chen, F.#**, Stein, P.#, Wang, J.#, Zhou, Z.#, Wang, L.#, ... & Xie, W. (2023). OBOX regulates murine zygotic genome activation and early development. Nature. 2023 Aug;620(7976):1047-1053.
 2. Nie, X.#, Xu, Q.#, Xu, C.#, **Chen, F.#**, Wang, Q., Qin, D., … & Li, L. (2023). Maternal TDP-43 interacts with RNA Pol II and regulates zygotic genome activation. Nature communications, 14(1), 4275. 
-3. Wang, R.#, Chen, F.#, Chen, Q.#, Wan, X.#, Shi, M., Chen, A. K., ... & Zhu, D. (2022). MyoD is a 3D genome structure organizer for muscle cell identity. Nature communications, 13(1), 1-17. (IF: 17.694)
+3. Wang, R.#, **Chen, F.#**, Chen, Q.#, Wan, X.#, Shi, M., Chen, A. K., ... & Zhu, D. (2022). MyoD is a 3D genome structure organizer for muscle cell identity. Nature communications, 13(1), 1-17. (IF: 17.694)
 4. Yang, L.#, **Chen, F.#**, Zhu, H.#, Chen, Y., Dong, B., Shi, M., ... & Wu, H. (2021). 3D genome alterations associated with dysregulated HOXA13 expression in high-risk T-lineage acute lymphoblastic leukemia. Nature communications, 12(1), 3708. 
 5. **Chen, F.#**, Li, G.#, Zhang, M. Q., & Chen, Y. (2018). HiCDB: a sensitive and robust method for detecting contact domain boundaries. Nucleic acids research, 46(21), 11239-11250. 
 6. Du, Z.#, Hu, L.#, Zou, Z.#, Liu, M.#, Li, Z., Lu, X., Harris, C., Xiang, Y., **Chen, F.**, ... & Xie, W. (2024). Stepwise de novo establishment of inactive X chromosome architecture in early development. Nature Genetics, 1-14.
