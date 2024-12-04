@@ -34,7 +34,7 @@ News
 Members
 ------
 <div class="media">
-    <span class="pull-left"><img src="images/members_zijun.jpg" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/members_zijun.jpg" width="60px" height="90px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Zijun Cheng</span></div>
         <div>Research assistant</div>
@@ -43,7 +43,7 @@ Members
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/bio-photo.jpg" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/bio-photo.jpg" width="60px" height="90px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Haochen Zhong</span></div>
         <div>Co-mentor students</div> 
