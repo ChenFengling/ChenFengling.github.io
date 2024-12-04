@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Chen's Lab at China Agricultural University.
+Welcome to Chen Lab at China Agricultural University.
 
 We are interested in applying statistical or machine-learning methods in genetic and epigenetic studies. Currently, We mainly focus on    
 1) developing novel statistical methods to analyze and explore multi-omic data including single-cell omics data, as well as   
@@ -29,7 +29,7 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">2020.09~Now     Postdoctoral scholar</span></div>
+        <div><span style="font-weight: bold">2020.09~2024.09     Postdoctoral scholar</span></div>
         <div>Department of Life Sciences, Tsinghua University, China</div>
         <div>Supervisor: Prof. Wei Xie</div>
     </div>
