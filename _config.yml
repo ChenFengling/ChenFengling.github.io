@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Fengling's Homepage"
+title                    : "Chen Lab Homepage"
 title_separator          : "-"
 name                     : &name "Chen Fengling"
-description              : &description "Machine learning, Bioinformatics"
+description              : &description "Bioinformatics, Epigenetics"
 url                      : https://chenfengling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChenFengling/ChenFengling.github.io"
@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Chen Fengling"
   avatar           : "cfl.jpg"
-  bio              : "Machine learning, Bioinformatics, Epigenetics"
-  email            : "cfl15@tsinghua.org.cn"
+  bio              : "Dr. Fengling Chen is an associate professor at the College of Biological Sciences, China Agricultural University. Chen Lab was launched in 2024.12 and focused on combining “wet” and “dry” skills to explore early embryo gene regulation."
+  location         : "China Agricultural University, Beijing, China"
+  email            : "cfl24@cau.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Fengling_Chen2"
   uri              :
   bitbucket        :
