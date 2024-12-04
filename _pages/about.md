@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chen's Lab"
+title: "Chen Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,14 @@ We are interested in applying statistical or machine-learning methods in genetic
 1) developing novel statistical methods to analyze and explore multi-omic data including single-cell omics data, as well as   
 2) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks in early embryo development.
 
+
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+News
+------
+* 2024.12. Chen lab officially launched.
+* 2024.12. Welcome Zijun Cheng to join the lab!
+
 <style type="text/css">
 *{padding:0;margin:0;}
 .media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
@@ -24,54 +31,30 @@ We are interested in applying statistical or machine-learning methods in genetic
 .media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
 </style>
 
-Education
+Members
 ------
 <div class="media">
-    <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/members_zijun.jpg" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">2020.09~2024.09     Postdoctoral scholar</span></div>
-        <div>Department of Life Sciences, Tsinghua University, China</div>
-        <div>Supervisor: Prof. Wei Xie</div>
+        <div><span style="font-weight: bold">Zijun Cheng</span></div>
+        <div>Research assistant</div>
+        <div>M.Phil. Student, SAU. (2021.9-2024.6)</div>
     </div>
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/stanford_logo.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/bio-photo.jpg" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">2019.07~2020.01    Research Scholar</span></div>
-        <div>Department of Statistics, Stanford University, USA</div> 
-        <div>Supervisor: Prof. Wing Hung Wong</div>
+        <div><span style="font-weight: bold">Haochen Zhong</span></div>
+        <div>Co-mentor students</div> 
+        <div>B.Sc., Tsinghua U. (2021.9-)</div>
     </div>
 </div>
 
-<div class="media">
-    <span class="pull-left"><img src="images/tsinghua_logo.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">2015.09~2020.08    Ph.D. Student</span></div>
-        <div>Department of Automation, Tsinghua University</div>
-        <div>Supervisor: Prof. Michael Zhang & Dr. Yang Chen  </div>
-    </div>
-</div>
 
-<div class="media">
-    <span class="pull-left"><img src="images/Buaa_logo.jpg" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">2011.09~2015.07    B.S.</span></div>
-        <div>Department of Electronic and Information Engineering</div> 
-        <div>Beihang University, Beijing.</div>
-    </div>
-</div>
-
-Experience
+Previous Works
 ------
-* 2020.12: [invited talks](https://ChenFengling.github.io/files/fengling_20201206_3D%20Genome.pdf) at the 7th International Symposium on 3D Genomics, Beijing
-* 2018.10: [invited talks](https://ChenFengling.github.io/files/wuhan1014_fchen.pdf) at the 5th International Symposium on 3D Genomics, Wuhan, Hubei
-* 2017.09: top 10 winner out of 368 teams in Mobike Big Data Challenge 2017. View our [solution](https://github.com/ChenFengling/mobike-cup) at github.  
-* 2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.  
-
-Publications
-------
-**Peer-reviewed papers (as lead author)**
+**Peer-reviewed papers**
 <style>
 .pub_title{font-size:16px;}
 .pub_author{font-size:16px;}
