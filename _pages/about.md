@@ -36,7 +36,7 @@ Members
 <div class="media">
     <span class="pull-left"><img src="images/members_rongkai.jpg" width="60px" height="100px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Zijun Cheng</span></div>
+        <div><span style="font-weight: bold">Rongkai Lv</span></div>
         <div>Ph.D. Student, CAU. (2025.9-)</div>
     </div>
 </div>
