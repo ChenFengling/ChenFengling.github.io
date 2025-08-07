@@ -14,7 +14,7 @@ We are interested in applying bioinformatics or machine-learning methods in gene
 1) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks in early embryo development.
 2) developing novel statistical or machine-learning methods to analyze and explore multi-omic data including single-cell omics data.
 
-**<span style="color:blue">We warmly welcome both wet and dry lab students and postdocs to join the lab！</span>**
+**<span style="color:#3A85BE;">We warmly welcome both wet and dry lab students and postdocs to join the lab！</span>**
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
