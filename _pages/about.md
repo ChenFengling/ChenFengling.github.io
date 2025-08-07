@@ -34,6 +34,14 @@ News
 Members
 ------
 <div class="media">
+    <span class="pull-left"><img src="images/members_rongkai.jpg" width="60px" height="100px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Zijun Cheng</span></div>
+        <div>Ph.D. Student, CAU. (2025.9-)</div>
+    </div>
+</div>
+
+<div class="media">
     <span class="pull-left"><img src="images/members_zijun.jpg" width="60px" height="100px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Zijun Cheng</span></div>
