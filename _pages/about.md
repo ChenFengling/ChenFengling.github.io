@@ -21,6 +21,8 @@ News
 ------
 * 2024.12. Chen lab officially launched.
 * 2024.12. Welcome Zijun Cheng to join the lab!
+* 2025.09. Welcome Rongkai Lv, Ziyu An, Wenhui Lv to join the lab!
+
 
 <style type="text/css">
 *{padding:0;margin:0;}
