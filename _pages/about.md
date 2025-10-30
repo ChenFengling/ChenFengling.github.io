@@ -48,7 +48,7 @@ Members
 <div class="media">
     <span class="pull-left"><img src="images/members_wenhui.png" width="60px" height="100px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Ziyu An</span></div>
+        <div><span style="font-weight: bold">Wenhui Lv</span></div>
         <div>Ph.D. Student, CAU. (2025.9-)</div>
         <div>B.Sc., CAU. (2021.9-2025.6)</div>
     </div>
