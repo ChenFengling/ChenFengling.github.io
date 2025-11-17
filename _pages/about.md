@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Chen Lab at China Agricultural University.
+🧬 Welcome to Chen Lab at China Agricultural University.
 
 We are interested in applying bioinformatics or machine-learning methods in genetic and epigenetic studies. Currently, We mainly focus on    
 1) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks in early embryo development.
@@ -18,7 +18,7 @@ We are interested in applying bioinformatics or machine-learning methods in gene
 
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
-News
+🌟 News
 ------
 * 2024.12. Chen lab officially launched.
 * 2024.12. Welcome Zijun Cheng to join the lab!
@@ -34,7 +34,7 @@ News
 .media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
 </style>
 
-Members
+👥 Team members
 ------
 <div class="media">
     <span class="pull-left"><img src="images/members_rongkai.jpg" width="60px" height="100px"/></span>
@@ -84,7 +84,7 @@ Members
 </div>
 
 
-Previous Works
+🎯 Recent Achievements
 ------
 **Peer-reviewed papers**
 <style>
@@ -155,6 +155,21 @@ Previous Works
 </td>
 </tr>
 </table>
+
+📍 Visit Us
+------
+
+**Location:** College of Biological Sciences  
+China Agricultural University  
+Beijing, China
+
+**Email:** [cfl24@cau.edu.cn](mailto:cfl24@cau.edu.cn)
+
+---
+
+*This website is regularly updated with our latest research activities and achievements.*  
+*Last updated: {{ site.time | date: '%B %d, %Y' }}*
+
 
 
 
