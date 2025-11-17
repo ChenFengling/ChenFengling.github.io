@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Fengling Chen, Ph.D"
-permalink: /cv/
+permalink: /gallery/
 author_profile: true
 redirect_from:
   - /resume
