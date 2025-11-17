@@ -13,11 +13,7 @@ author_profile: true
 ![香山爬山](images/hiking-xiangshan.jpg)  
 
 
-> "A happy lab is a productive lab. We believe that strong personal connections and shared experiences outside the laboratory enhance our scientific collaboration and creativity inside the lab."
 
----
 
-*These activities help us build a supportive and collaborative research environment.*  
 *Last updated: {{ site.time | date: '%B %d, %Y' }}*
 
-*Have more photos to share? Send them to [cfl24@cau.edu.cn](mailto:cfl24@cau.edu.cn)*
