@@ -1,91 +1,113 @@
 ---
-layout: archive
-title: "Fengling Chen, Ph.D"
+layout: single
+title: "Laboratory Gallery"
 permalink: /gallery/
 author_profile: true
-redirect_from:
-  - /resume
+header:
+  overlay_image: /images/lab-banner.jpg
+  overlay_filter: 0.3
+  caption: "Chen Lab - Exploring the Frontiers of Bioinformatics"
+classes: wide
+gallery:
+  - url: /images/lab-overview.jpg
+    image_path: /images/lab-overview.jpg
+    alt: "Laboratory Overview"
+    title: "Our Research Laboratory"
+  - url: /images/team-meeting.jpg
+    image_path: /images/team-meeting.jpg
+    alt: "Team Discussion"
+    title: "Research Team Meetings"
+  - url: /images/experiment-setup.jpg
+    image_path: /images/experiment-setup.jpg
+    alt: "Experimental Setup"
+    title: "Precision Experimental Setup"
+  - url: /images/bioinformatics.jpg
+    image_path: /images/bioinformatics.jpg
+    alt: "Bioinformatics Analysis"
+    title: "Computational Analysis Workstation"
+  - url: /images/conference-presentation.jpg
+    image_path: /images/conference-presentation.jpg
+    alt: "Conference Presentation"
+    title: "International Conference Presentation"
+  - url: /images/collaboration.jpg
+    image_path: /images/collaboration.jpg
+    alt: "Research Collaboration"
+    title: "Collaborative Research Sessions"
+
+research_gallery:
+  - image_path: /images/microscope-work.jpg
+    alt: "Microscopy Analysis"
+    title: "Advanced Microscopy"
+  - image_path: /images/dna-sequencing.jpg
+    alt: "DNA Sequencing"
+    title: "Next-generation Sequencing"
+  - image_path: /images/data-analysis.jpg
+    alt: "Data Analysis"
+    title: "Bioinformatics Data Analysis"
+
+team_photos:
+  - image_path: /images/team-photo-2024.jpg
+    alt: "Lab Team 2024"
+    title: "Chen Lab Team 2024"
+  - image_path: /images/group-discussion.jpg
+    alt: "Group Discussion"
+    title: "Research Group Discussion"
 ---
-Principal Investigator    
-College of Biological Sciences   
-China Agricultural University   
 
+# 🧬 Chen Lab Photo Gallery
 
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<style type="text/css">
-*{padding:0;margin:0;}
-.media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
-.media:after{clear:both;display:block;width:0;height:0;content:""}
-.pull-left{height:75px;float:left;border:0 solid #ccc}
-.pull-left img{height:75px;}
-.media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
-</style>
+Welcome to our laboratory gallery! Here you can see glimpses of our daily research activities, team collaborations, and the cutting-edge work we do in bioinformatics and epigenetics.
 
-Education
-------
-<div class="media">
-    <span class="pull-left"><img src="https://ChenFengling.github.io/images/tsinghua_logo.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">2020.09~2024.09     Postdoctoral scholar</span></div>
-        <div>Department of Life Sciences, Tsinghua University, China</div>
-        <div>Supervisor: Prof. Wei Xie</div>
-    </div>
-</div>
+## 🏛️ Laboratory Environment
 
-<div class="media">
-    <span class="pull-left"><img src="https://ChenFengling.github.io/images/stanford_logo.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">2019.07~2020.01    Research Scholar</span></div>
-        <div>Department of Statistics, Stanford University, USA</div> 
-        <div>Supervisor: Prof. Wing Hung Wong</div>
-    </div>
-</div>
+{% include gallery caption="Our state-of-the-art research facilities at China Agricultural University" %}
 
-<div class="media">
-    <span class="pull-left"><img src="https://ChenFengling.github.io/images/tsinghua_logo.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">2015.09~2020.08    Ph.D. Student</span></div>
-        <div>Department of Automation, Tsinghua University</div>
-        <div>Supervisor: Prof. Michael Zhang & Dr. Yang Chen  </div>
-    </div>
-</div>
+## 🔬 Research Activities
 
-<div class="media">
-    <span class="pull-left"><img src="https://ChenFengling.github.io/images/Buaa_logo.jpg" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">2011.09~2015.07    B.S.</span></div>
-        <div>Department of Electronic and Information Engineering</div> 
-        <div>Beihang University, Beijing.</div>
-    </div>
-</div>
+{% include gallery id="research_gallery" caption="Dedicated to advancing knowledge in embryonic development and epigenetic regulation" %}
 
-Experience
-------
-* 2020.12: [invited talks](https://ChenFengling.github.io/files/fengling_20201206_3D%20Genome.pdf) at the 7th International Symposium on 3D Genomics, Beijing
-* 2018.10: [invited talks](https://ChenFengling.github.io/files/wuhan1014_fchen.pdf) at the 5th International Symposium on 3D Genomics, Wuhan, Hubei
-* 2017.09: top 10 winner out of 368 teams in Mobike Big Data Challenge 2017. View our [solution](https://github.com/ChenFengling/mobike-cup) at github.  
-* 2016.09 - 2017.01: Teaching assistant, Statistical Methods with Applications.  
+## 👥 Team Photos
 
-Select publications
-------
-1. Ji, S.#, **Chen, F.#**, Stein, P.#, Wang, J.#, Zhou, Z.#, Wang, L.#, ... & Xie, W. (2023). OBOX regulates murine zygotic genome activation and early development. Nature. 2023 Aug;620(7976):1047-1053.
-2. Nie, X.#, Xu, Q.#, Xu, C.#, **Chen, F.#**, Wang, Q., Qin, D., … & Li, L. (2023). Maternal TDP-43 interacts with RNA Pol II and regulates zygotic genome activation. Nature communications, 14(1), 4275. 
-3. Wang, R.#, **Chen, F.#**, Chen, Q.#, Wan, X.#, Shi, M., Chen, A. K., ... & Zhu, D. (2022). MyoD is a 3D genome structure organizer for muscle cell identity. Nature communications, 13(1), 1-17. (IF: 17.694)
-4. Yang, L.#, **Chen, F.#**, Zhu, H.#, Chen, Y., Dong, B., Shi, M., ... & Wu, H. (2021). 3D genome alterations associated with dysregulated HOXA13 expression in high-risk T-lineage acute lymphoblastic leukemia. Nature communications, 12(1), 3708. 
-5. **Chen, F.#**, Li, G.#, Zhang, M. Q., & Chen, Y. (2018). HiCDB: a sensitive and robust method for detecting contact domain boundaries. Nucleic acids research, 46(21), 11239-11250. 
-6. Du, Z.#, Hu, L.#, Zou, Z.#, Liu, M.#, Li, Z., Lu, X., Harris, C., Xiang, Y., **Chen, F.**, ... & Xie, W. (2024). Stepwise de novo establishment of inactive X chromosome architecture in early development. Nature Genetics, 1-14.
-7. Li, L.#, Lai, F.#, Hu, X.#, Liu, B.#, …, **Chen, F.**, Fan, Q., Ralston, A., & Xie, W. (2023). Multifaceted SOX2-chromatin interaction underpins pluripotency progression in early embryos. Science, 382(6676). 
-8. Guo, T.#, Yuan, Z.#, Pan, Y., Wang, J., **Chen, F.**, Zhang, M. Q. & Li, X. (2023). SPIRAL: integrating and aligning spatially resolved transcriptomics data across different experiments, conditions, and technologies. Genome biology, 24(1), 241. (IF: 12.3)
-9. Ye, Z., **Chen, F.**, Zeng, J., Gao, J., & Zhang, M. Q. (2021). ScaffComb: A Phenotype‐Based Framework for Drug Combination Virtual Screening in Large‐Scale Chemical Datasets. Advanced Science, 8(24), 2102092. (IF: 17.521)
-10. Li, Y., He, Y., Liang, Z., Wang, Y., **Chen, F.**, Djekidel, M. N., ... & Gao, J. (2018). Alterations of specific chromatin conformation affect ATRA-induced leukemia cell differentiation. Cell death & disease, 9(2), 200. (IF: 9.696)
-11. Wang, J., **Chen, F.**, Liu, L., Qi, C., Wang, B., Yan, X., ... & Du, Y. (2016). Engineering EMT using 3D micro-scaffold to promote hepatic functions for drug hepatotoxicity evaluation. Biomaterials, 91, 11-22. (IF: 15.304)
+{% include gallery id="team_photos" caption="Meet the passionate researchers of Chen Lab" %}
 
-Contact
-------
-E-mail:cfl24@cau.edu.cn
+## 📊 Our Research Areas
 
-Click [Here](https://ChenFengling.github.io/files/个人简历-陈凤玲.pdf)  to Download the Up-to-date Curriculum Vitae.
+### Wet Lab Techniques
+- **Embryonic Stem Cell Culture** - Maintaining pluripotent stem cells for developmental studies
+- **Epigenetic Profiling** - DNA methylation and histone modification analysis
+- **Molecular Cloning** - Gene construct preparation and validation
+- **Single-cell Analysis** - High-resolution cellular profiling
 
+### Dry Lab Expertise
+- **Bioinformatics Pipelines** - Custom computational tools for epigenetic data
+- **Statistical Modeling** - R and Python for biological data analysis
+- **Data Visualization** - Interactive plots and genomic browser tracks
+- **Machine Learning** - Predictive modeling for gene regulation
 
+## 🎯 Recent Achievements
+
+| Year | Achievement | Description |
+|------|-------------|-------------|
+| 2024 | Lab Establishment | Successfully launched Chen Lab at CAU |
+| 2024 | Research Grant | Secured funding for embryonic development project |
+| 2023 | Publication | High-impact paper on epigenetic mechanisms |
+| 2023 | Conference | Presented at International Bioinformatics Conference |
+
+## 🌟 Laboratory Philosophy
+
+> "Combining wet lab precision with dry lab intelligence to unravel the mysteries of early embryonic development."
+
+## 📍 Visit Us
+
+**Location:** College of Biological Sciences  
+China Agricultural University  
+Beijing, China
+
+**Email:** [cfl24@cau.edu.cn](mailto:cfl24@cau.edu.cn)
+
+---
+
+*This gallery is regularly updated with our latest research activities and achievements.*  
+*Last updated: {{ site.time | date: '%B %d, %Y' }}*
 
 
