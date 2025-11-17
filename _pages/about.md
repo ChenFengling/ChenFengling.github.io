@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🧬 Welcome to Chen Lab at China Agricultural University.
+Welcome to Chen Lab at China Agricultural University.
 
 We are interested in applying bioinformatics or machine-learning methods in genetic and epigenetic studies. Currently, We mainly focus on    
 1) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks in early embryo development.
@@ -34,7 +34,7 @@ We are interested in applying bioinformatics or machine-learning methods in gene
 .media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
 </style>
 
-👥 Team members
+👥 Team Members
 ------
 <div class="media">
     <span class="pull-left"><img src="images/members_rongkai.jpg" width="60px" height="100px"/></span>
