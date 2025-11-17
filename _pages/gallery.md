@@ -9,8 +9,9 @@ author_profile: true
 
 *2025.11 Happy Autumn out in Xiang Shan!*
 
-![实验室聚餐](images/dinner-Autumn.jpg)  
-![香山爬山](images/hiking-xiangshan.jpg)  
+![实验室聚餐](https://github.com/ChenFengling/ChenFengling.github.io/blob/master/images/dinner-Autumn.jpg)  
+![香山爬山](https://github.com/ChenFengling/ChenFengling.github.io/blob/master/images/hiking-xiangshan2.jpg)  
+
 
 
 
