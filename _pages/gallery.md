@@ -16,9 +16,13 @@ author_profile: true
   </div>
 </div>
 
-<video controls width="100%">
-  <source src="https://ChenFengling.github.io/_pages/images/hiking-xiangshan.mp4" type="video/mp4">
-</video>
+<div class="video-container">
+  <video controls>
+    <source src="https://ChenFengling.github.io/_pages/images/hiking-xiangshan.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p class="video-caption">香山秋日徒步记录 - Autumn Hiking in Xiang Shan</p>
+</div>
 
 *Last updated: {{ site.time | date: '%B %d, %Y' }}*
 
@@ -40,15 +44,45 @@ author_profile: true
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
-  /* 确保图片保持原始比例 */
   object-fit: contain;
-  /* 移除任何可能限制比例的属性 */
   max-height: none;
   width: auto;
 }
 
 .image-row img:hover {
   transform: scale(1.02);
+}
+
+/* 视频容器样式 */
+.video-container {
+  margin: 2rem auto;
+  text-align: center;
+  max-width: 400px; /* 限制竖版视频的最大宽度 */
+  width: 100%;
+}
+
+.video-container video {
+  width: 100%;
+  height: auto;
+  max-height: 600px; /* 限制竖版视频的最大高度 */
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  background: #000;
+}
+
+.video-caption {
+  margin-top: 12px;
+  font-style: italic;
+  color: #666;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
+/* 平板设备适配 */
+@media (max-width: 1024px) {
+  .video-container {
+    max-width: 350px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -60,9 +94,34 @@ author_profile: true
   .image-row img {
     max-width: 90%;
     margin-bottom: 15px;
-    /* 移动端也保持比例 */
     width: 100%;
     height: auto;
+  }
+  
+  .video-container {
+    max-width: 300px;
+    margin: 1.5rem auto;
+  }
+  
+  .video-container video {
+    max-height: 500px;
+  }
+}
+
+/* 小屏手机适配 */
+@media (max-width: 480px) {
+  .video-container {
+    max-width: 280px;
+  }
+  
+  .video-container video {
+    max-height: 450px;
+    border-radius: 8px;
+  }
+  
+  .video-caption {
+    font-size: 0.9rem;
+    margin-top: 8px;
   }
 }
 </style>
