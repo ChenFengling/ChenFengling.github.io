@@ -36,6 +36,11 @@ author_profile: true
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
+  /* 确保图片保持原始比例 */
+  object-fit: contain;
+  /* 移除任何可能限制比例的属性 */
+  max-height: none;
+  width: auto;
 }
 
 .image-row img:hover {
@@ -51,6 +56,9 @@ author_profile: true
   .image-row img {
     max-width: 90%;
     margin-bottom: 15px;
+    /* 移动端也保持比例 */
+    width: 100%;
+    height: auto;
   }
 }
 </style>
