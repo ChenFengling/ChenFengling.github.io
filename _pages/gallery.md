@@ -11,10 +11,9 @@ author_profile: true
 
 <div class="image-gallery">
   <div class="image-row">
-    <img src="https://github.com/ChenFengling/ChenFengling.github.io/blob/master/_pages/images/20251111-Autumn-dinner.jpg" alt="实验室聚餐">
-    <img src="https://github.com/ChenFengling/ChenFengling.github.io/blob/master/_pages/images/20251111-hiking-xiangshan2.jpg" alt="香山爬山">
+    <img src="https://ChenFengling.github.io/_pages/images/20251111-Autumn-dinner.jpg" alt="实验室聚餐">
+    <img src="https://ChenFengling.github.io/_pages/images/20251111-hiking-xiangshan2.jpg" alt="香山爬山">
   </div>
 </div>
-
 
 *Last updated: {{ site.time | date: '%B %d, %Y' }}*
