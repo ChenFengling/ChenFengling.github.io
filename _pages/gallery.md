@@ -9,19 +9,20 @@ author_profile: true
 
 *2025.11 Happy Autumn out in Xiang Shan and China National Botanical Garden!*
 
+
+<div class="image-gallery">
+  <div class="image-row">
+    <img src="https://ChenFengling.github.io/_pages/images/hiking-xiangshan2.jpg" alt="hiking">
+    <img src="https://ChenFengling.github.io/_pages/images/20251111-lunch.jpg" alt="happy lunch">   
+  </div>
+</div>
+
 <div class="video-container">
   <video controls>
     <source src="https://ChenFengling.github.io/_pages/images/hiking-xiangshan.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
-
-<div class="image-gallery">
-  <div class="image-row">
-    <img src="https://ChenFengling.github.io/_pages/images/hiking-xiangshan2.jpg" alt="香山爬山">
-  </div>
-</div>
-
 
 
 *Last updated: {{ site.time | date: '%B %d, %Y' }}*
