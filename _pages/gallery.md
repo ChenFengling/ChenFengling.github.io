@@ -17,7 +17,7 @@ author_profile: true
 </div>
 
 <video controls width="100%">
-  <source src="https://ChenFengling.github.io/_pages/images/hiking-xiangshan2.mp4" type="video/mp4">
+  <source src="https://ChenFengling.github.io/_pages/images/hiking-xiangshan.mp4" type="video/mp4">
 </video>
 
 *Last updated: {{ site.time | date: '%B %d, %Y' }}*
