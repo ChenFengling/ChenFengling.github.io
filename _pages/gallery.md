@@ -7,6 +7,15 @@ author_profile: true
 
 📸 Welcome to our lab activities gallery! Here we capture the joyful moments of our team building activities, including delicious dinners and exciting hiking adventures around Beijing.
 
+*2025.12 Weekly badminton in the lab!*
+
+<div class="image-gallery">
+  <div class="image-row">
+    <img src="https://ChenFengling.github.io/_pages/images/badminton.jpg" alt="hiking">
+  </div>
+</div>
+
+
 *2025.11 Happy Autumn out in Xiang Shan and China National Botanical Garden!*
 
 
