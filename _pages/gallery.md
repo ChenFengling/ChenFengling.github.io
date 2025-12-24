@@ -11,7 +11,7 @@ author_profile: true
 
 <div class="image-gallery">
   <div class="image-row">
-    <img src="https://ChenFengling.github.io/_pages/images/badminton.jpg" alt="hiking">
+    <img src="https://ChenFengling.github.io/_pages/images/badminton.jpg" alt="badminton">
   </div>
 </div>
 
