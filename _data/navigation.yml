@@ -1,10 +1,16 @@
 # main links links
 main:
-  - title: "Gallery"
-    url: /gallery/
+  - title: "Research"
+    url: /Research/
+    
+  - title: "Members"
+    url: /Members/
   
   - title: "PI"
     url: /cv/
+  
+  - title: "Gallery"
+    url: /gallery/
 
   - title: "Talks"
     url: /talks/    
