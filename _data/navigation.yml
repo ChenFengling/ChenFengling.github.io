@@ -6,9 +6,6 @@ main:
   - title: "Members"
     url: /Members/
   
-  - title: "PI"
-    url: /cv/
-  
   - title: "Gallery"
     url: /gallery/
 
