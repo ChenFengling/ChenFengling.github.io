@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to Chen Lab at China Agricultural University.
 
-We are interested in applying bioinformatics or machine-learning methods in genetic and epigenetic studies. Currently, We mainly focus on    
-1) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks in early embryo development.
-2) developing novel statistical or machine-learning methods to analyze and explore multi-omic data including single-cell omics data.
+We are interested in applying bioinformatics or machine-learning methods in genetic and epigenetic studies. Currently, we mainly focus on    
+1) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks and 3D genome in early embryo development.
+2) developing novel statistical or machine-learning methods to analyze and explore multi-omic data including single-cell omics and 3D genome data.
 
 **<span style="color:#3A85BE;">We warmly welcome both wet and dry lab students and postdocs to join the lab！</span>**
 
