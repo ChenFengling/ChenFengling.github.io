@@ -183,6 +183,20 @@ author_profile: true
     </div>
   </div>
 
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="https://ChenFengling.github.io/_pages/images/Members_sxy.jpg">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Xiaoyang Shao>Xiao>
+      <div class="member-role">Ph.D. Student, CAU (2026.9–)</div>
+      <div class="member-affil">B.Sc., WUT (2022.9–2026.6)</div>
+    </div>
+  </div>
+
+
+
 </div>
 </div>
 
