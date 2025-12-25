@@ -222,26 +222,6 @@ author_profile: true
 <h2>Undergraduate</h2>
 <div class="member-grid">
  
-  <div class="member-card">
-    <div class="member-photo">
-    </div>
-    <div class="member-info">
-      <div class="member-name">Haochen Zhong</div>
-      <div class="member-role">Co-mentored Student</div>
-      <div class="member-affil">B.Sc., Tsinghua University (2021–)</div>
-    </div>
-  </div>
-  
-  <div class="member-card">
-    <div class="member-photo">
-    </div>
-    <div class="member-info">
-      <div class="member-name">Haochen Zhong</div>
-      <div class="member-role">Co-mentored Student</div>
-      <div class="member-affil">B.Sc., Tsinghua University (2021.9–)</div>
-    </div>
-  </div>
-
     <div class="member-card">
     <div class="member-photo">
     </div>
