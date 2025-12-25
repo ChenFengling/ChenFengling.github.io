@@ -125,7 +125,7 @@ author_profile: true
   <div class="member-card pi-card">
 
     <div class="pi-photo">
-      <img src="https://ChenFengling.github.io/_pages/images/bio-photo.jpg">
+      <img src="https://ChenFengling.github.io/_pages/images/Members_cfl.jpg">
     </div>
 
     <div class="member-info">
@@ -140,29 +140,7 @@ author_profile: true
         📄 Click <a href="https://ChenFengling.github.io/files/个人简历-陈凤玲.pdf" target="_blank">Here</a>
         to Download the Up-to-date Curriculum Vitae
       </div>
-
-      <div class="member-edu">
-        <strong>Education & Training</strong>
-        <ul>
-          <li>
-            <strong>2020.09–2024.09</strong> &nbsp; Postdoctoral Scholar, Department of Life Sciences, Tsinghua University, China  
-            <br>Supervisor: Prof. Wei Xie
-          </li>
-          <li>
-            <strong>2019.07–2020.01</strong> &nbsp; Research Scholar, Department of Statistics, Stanford University, USA  
-            <br>Supervisor: Prof. Wing Hung Wong
-          </li>
-          <li>
-            <strong>2015.09–2020.08</strong> &nbsp; Ph.D. Student, Department of Automation, Tsinghua University  
-            <br>Supervisor: Prof. Michael Zhang & Dr. Yang Chen
-          </li>
-          <li>
-            <strong>2011.09–2015.07</strong> &nbsp; B.S., Department of Electronic and Information Engineering, Beihang University, Beijing
-          </li>
-        </ul>
-      </div>
     </div>
-
   </div>
 </div>
 </div>
