@@ -223,7 +223,6 @@ author_profile: true
 <div class="member-grid">
   <div class="member-card">
     <div class="member-photo">
-      <img src="https://ChenFling.github.io/_pages/images/bio-photo.jpg">
     </div>
     <div class="member-info">
       <div class="member-name">Haochen Zhong</div>
