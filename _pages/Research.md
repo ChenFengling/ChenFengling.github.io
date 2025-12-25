@@ -1,88 +1,9 @@
 ---
-permalink: /
-title: "Chen Lab"
-excerpt: "About me"
+layout: single
+title: "Research"
+permalink: /Research/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-
-Welcome to Chen Lab at China Agricultural University.
-
-We are interested in applying bioinformatics or machine-learning methods in genetic and epigenetic studies. Currently, We mainly focus on    
-1) using molecular biology, genomics, and bioinformatics methods to explore gene regulation networks in early embryo development.
-2) developing novel statistical or machine-learning methods to analyze and explore multi-omic data including single-cell omics data.
-
-**<span style="color:#3A85BE;">We warmly welcome both wet and dry lab students and postdocs to join the lab！</span>**
-
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-
-🌟 News
-------
-* 2024.12. Chen lab officially launched.
-* 2024.12. Welcome Zijun Cheng to join the lab!
-* 2025.09. Welcome Rongkai Lv, Ziyu An, Wenhui Lv to join the lab!
-
-
-<style type="text/css">
-*{padding:0;margin:0;}
-.media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
-.media:after{clear:both;display:block;width:0;height:0;content:""}
-.pull-left{height:75px;float:left;border:0 solid #ccc}
-.pull-left img{height:75px;}
-.media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
-</style>
-
-👥 Team Members
-------
-<div class="media">
-    <span class="pull-left"><img src="images/members_rongkai.jpg" width="60px" height="100px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Rongkai Lv</span></div>
-        <div>Ph.D. Student, CAU. (2025.9-)</div>
-        <div>M.Phil., HMU. (2022.9-2025.6)</div>
-    </div>
-</div>
-
-<div class="media">
-    <span class="pull-left"><img src="images/members_wenhui.png" width="60px" height="100px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Wenhui Lv</span></div>
-        <div>Ph.D. Student, CAU. (2025.9-)</div>
-        <div>B.Sc., CAU. (2021.9-2025.6)</div>
-    </div>
-</div>
-
-<div class="media">
-    <span class="pull-left"><img src="images/members_ziyu.jpg" width="60px" height="100px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Ziyu An</span></div>
-        <div>Ph.D. Student, CAU. (2025.9-)</div>
-        <div>B.Sc., XYNU. (2021.9-2025.6)</div>
-    </div>
-</div>
-
-
-
-<div class="media">
-    <span class="pull-left"><img src="images/members_zijun.jpg" width="60px" height="100px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Zijun Cheng</span></div>
-        <div>Research assistant</div>
-        <div>M.Phil. Student, SAU. (2021.9-2024.6)</div>
-    </div>
-</div>
-
-<div class="media">
-    <span class="pull-left"><img src="images/bio-photo.jpg" width="60px" height="90px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Haochen Zhong</span></div>
-        <div>Co-mentor students</div> 
-        <div>B.Sc., Tsinghua U. (2021.9-)</div>
-    </div>
-</div>
-
 
 🎯 Recent Achievements
 ------
@@ -156,14 +77,20 @@ We are interested in applying bioinformatics or machine-learning methods in gene
 </tr>
 </table>
 
-📍 Visit Us
+
+📝 Publications
 ------
-
-**Location:** College of Biological Sciences  
-China Agricultural University  
-Beijing, China
-
-**Email:** [cfl24@cau.edu.cn](mailto:cfl24@cau.edu.cn)
+1. Ji, S.#, **Chen, F.#**, Stein, P.#, Wang, J.#, Zhou, Z.#, Wang, L.#, ... & Xie, W. (2023). OBOX regulates murine zygotic genome activation and early development. Nature. 2023 Aug;620(7976):1047-1053.
+2. Nie, X.#, Xu, Q.#, Xu, C.#, **Chen, F.#**, Wang, Q., Qin, D., … & Li, L. (2023). Maternal TDP-43 interacts with RNA Pol II and regulates zygotic genome activation. Nature communications, 14(1), 4275. 
+3. Wang, R.#, **Chen, F.#**, Chen, Q.#, Wan, X.#, Shi, M., Chen, A. K., ... & Zhu, D. (2022). MyoD is a 3D genome structure organizer for muscle cell identity. Nature communications, 13(1), 1-17. (IF: 17.694)
+4. Yang, L.#, **Chen, F.#**, Zhu, H.#, Chen, Y., Dong, B., Shi, M., ... & Wu, H. (2021). 3D genome alterations associated with dysregulated HOXA13 expression in high-risk T-lineage acute lymphoblastic leukemia. Nature communications, 12(1), 3708. 
+5. **Chen, F.#**, Li, G.#, Zhang, M. Q., & Chen, Y. (2018). HiCDB: a sensitive and robust method for detecting contact domain boundaries. Nucleic acids research, 46(21), 11239-11250. 
+6. Du, Z.#, Hu, L.#, Zou, Z.#, Liu, M.#, Li, Z., Lu, X., Harris, C., Xiang, Y., **Chen, F.**, ... & Xie, W. (2024). Stepwise de novo establishment of inactive X chromosome architecture in early development. Nature Genetics, 1-14.
+7. Li, L.#, Lai, F.#, Hu, X.#, Liu, B.#, …, **Chen, F.**, Fan, Q., Ralston, A., & Xie, W. (2023). Multifaceted SOX2-chromatin interaction underpins pluripotency progression in early embryos. Science, 382(6676). 
+8. Guo, T.#, Yuan, Z.#, Pan, Y., Wang, J., **Chen, F.**, Zhang, M. Q. & Li, X. (2023). SPIRAL: integrating and aligning spatially resolved transcriptomics data across different experiments, conditions, and technologies. Genome biology, 24(1), 241. (IF: 12.3)
+9. Ye, Z., **Chen, F.**, Zeng, J., Gao, J., & Zhang, M. Q. (2021). ScaffComb: A Phenotype‐Based Framework for Drug Combination Virtual Screening in Large‐Scale Chemical Datasets. Advanced Science, 8(24), 2102092. (IF: 17.521)
+10. Li, Y., He, Y., Liang, Z., Wang, Y., **Chen, F.**, Djekidel, M. N., ... & Gao, J. (2018). Alterations of specific chromatin conformation affect ATRA-induced leukemia cell differentiation. Cell death & disease, 9(2), 200. (IF: 9.696)
+11. Wang, J., **Chen, F.**, Liu, L., Qi, C., Wang, B., Yan, X., ... & Du, Y. (2016). Engineering EMT using 3D micro-scaffold to promote hepatic functions for drug hepatotoxicity evaluation. Biomaterials, 91, 11-22. (IF: 15.304)
 
 ---
 
