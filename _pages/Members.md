@@ -221,6 +221,7 @@ author_profile: true
 <div class="member-section">
 <h2>Undergraduate</h2>
 <div class="member-grid">
+ 
   <div class="member-card">
     <div class="member-photo">
     </div>
@@ -230,6 +231,80 @@ author_profile: true
       <div class="member-affil">B.Sc., Tsinghua University (2021–)</div>
     </div>
   </div>
+  
+  <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Haochen Zhong</div>
+      <div class="member-role">Co-mentored Student</div>
+      <div class="member-affil">B.Sc., Tsinghua University (2021.9–)</div>
+    </div>
+  </div>
+
+    <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Qinglin Gan</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2022.9–)</div>
+    </div>
+  </div>
+
+      <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Chengyu Peng</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2023.9–)</div>
+    </div>
+  </div>
+
+
+    <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Yi Gong</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2023.9–)</div>
+    </div>
+  </div>
+
+    <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Xinning Wang</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., Tsinghua University (2024.9–)</div>
+    </div>
+  </div>
+
+      <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Yilin Sang</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2024.9–)</div>
+    </div>
+  </div>
+
+        <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Yiyi Ma</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2024.9–)</div>
+    </div>
+  </div>
+  
+
+  
 </div>
 </div>
 
