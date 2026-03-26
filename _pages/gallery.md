@@ -7,6 +7,17 @@ author_profile: true
 
 📸 Welcome to our lab activities gallery! Here we capture the joyful moments of our team building activities, including delicious dinners and exciting hiking adventures around Beijing.
 
+
+*2026.1 and 2026.3 Birthday party in the lab!*
+
+<div class="image-gallery">
+  <div class="image-row">
+    <img src="https://ChenFengling.github.io/_pages/images/birth_Rongkai.jpg" alt="Rongkai">
+    <img src="https://ChenFengling.github.io/_pages/images/birth_Ziyu.jpg" alt="Ziyu">
+  </div>
+</div>
+
+
 *2025.12 Weekly badminton in the lab!*
 
 <div class="image-gallery">
