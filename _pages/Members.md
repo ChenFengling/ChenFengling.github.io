@@ -183,8 +183,18 @@ author_profile: true
     </div>
   </div>
 
-
   <div class="member-card">
+    <div class="member-photo">
+      <img src="https://ChenFengling.github.io/_pages/images/members_zijun.jpg">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Zijun Cheng</div>
+      <div class="member-role">Ph.D. Student, CAU (2026.9–)</div>
+      <div class="member-affil">M.Phil., SAU (2021.9–2024.6)</div>
+    </div>
+  </div>
+
+    <div class="member-card">
     <div class="member-photo">
       <img src="https://ChenFengling.github.io/_pages/images/Members_sxy.jpg">
     </div>
@@ -195,27 +205,35 @@ author_profile: true
     </div>
   </div>
 
-
-
-</div>
-</div>
-
-<!-- ================= RA ================= -->
-<div class="member-section">
-<h2>Research Assistant</h2>
-<div class="member-grid">
-  <div class="member-card">
+    <div class="member-card">
     <div class="member-photo">
-      <img src="https://ChenFengling.github.io/_pages/images/members_zijun.jpg">
+      <img src="https://ChenFengling.github.io/_pages/images/members_ziheng.jpg">
     </div>
     <div class="member-info">
-      <div class="member-name">Zijun Cheng</div>
-      <div class="member-role">Research Assistant</div>
-      <div class="member-affil">M.Phil., SAU (2021.9–2024.6)</div>
+      <div class="member-name">Ziheng Wang</div>
+      <div class="member-role">Ph.D. Student, CAU (2026.9–)</div>
+      <div class="member-affil">B.Sc., BUCT (2022.9–2026.6)</div>
     </div>
   </div>
+
+
+  <div class="member-card">
+    <div class="member-photo">
+      <img src="https://ChenFengling.github.io/_pages/images/members-yiyi.jpg">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Yiyi Ma </div>
+      <div class="member-role2">Qiangji Plan </div>
+      <div class="member-role">Ph.D. Student, CAU (2026.9–)</div>
+      <div class="member-affil">B.Sc., CAU (2023.9–2026.6)</div>
+    </div>
+  </div>
+
+
+
 </div>
 </div>
+
 
 <!-- ================= UG ================= -->
 <div class="member-section">
@@ -224,7 +242,7 @@ author_profile: true
  
 
 
-      <div class="member-card">
+    <div class="member-card">
     <div class="member-photo">
     </div>
     <div class="member-info">
@@ -239,27 +257,17 @@ author_profile: true
     <div class="member-photo">
     </div>
     <div class="member-info">
-      <div class="member-name">Yi Gong</div>
-      <div class="member-role">URP Student</div>
-      <div class="member-affil">B.Sc., CAU (2023.9–)</div>
-    </div>
-  </div>
-
-    <div class="member-card">
-    <div class="member-photo">
-    </div>
-    <div class="member-info">
-      <div class="member-name">Yiyi Ma</div>
-      <div class="member-role">URP Student</div>
-      <div class="member-affil">B.Sc., CAU (2023.9–)</div>
-    </div>
-  </div>
-
-    <div class="member-card">
-    <div class="member-photo">
-    </div>
-    <div class="member-info">
       <div class="member-name">Ruoyu Li</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2023.9–)</div>
+    </div>
+  </div>
+
+     <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Yinan Cai</div>
       <div class="member-role">URP Student</div>
       <div class="member-affil">B.Sc., CAU (2023.9–)</div>
     </div>
@@ -275,15 +283,7 @@ author_profile: true
     </div>
   </div>
 
-      <div class="member-card">
-    <div class="member-photo">
-    </div>
-    <div class="member-info">
-      <div class="member-name">Yilin Sang</div>
-      <div class="member-role">URP Student</div>
-      <div class="member-affil">B.Sc., CAU (2024.9–)</div>
-    </div>
-  </div>
+
 
 
   
@@ -315,6 +315,28 @@ author_profile: true
       <div class="member-affil">B.Sc., CAU (2022.9–)</div>
       <div class="member-period">(2025.3–2026.3)</div>
       </div>
+  </div>
+
+    <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Yi Gong</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2023.9–)</div>
+      <div class="member-period">(2024.11–2026.3)</div>
+      </div>
+  </div>
+  
+    <div class="member-card">
+    <div class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-name">Yilin Sang</div>
+      <div class="member-role">URP Student</div>
+      <div class="member-affil">B.Sc., CAU (2024.9–)</div>
+      <div class="member-period">(2025.9–2026.4)</div>
+    </div>
   </div>
 
 
